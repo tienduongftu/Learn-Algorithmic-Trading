@@ -6,6 +6,8 @@ This is the code repository for [Learn Algorithmic Trading ](https://www.packtpu
 
 **Build and deploy algorithmic trading systems and strategies using Python and advanced data analysis**
 
+<mark>Module này lấy từ git cho cuốn Learn Algorithmic Trading. Cuốn sách dạy về cách thiết kế hệ thống giao dịch và chi tiết việc xây dựng trên ngôn ngữ Python</mark>
+
 ## What is this book about?
 It’s now harder than ever to get a significant edge over competitors in terms of speed and efficiency when it comes to algorithmic trading. Relying on sophisticated trading signals, predictive models and strategies can make all the difference. This book will guide you through these aspects, giving you insights into how modern electronic trading markets and participants operate.
 
